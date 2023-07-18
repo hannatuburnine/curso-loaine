@@ -1,4 +1,4 @@
-package com.curso-loiane;
+package com.cursoloiane;
 
 /**
  * Hello world!
